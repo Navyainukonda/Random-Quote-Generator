@@ -13,7 +13,7 @@ A simple and stylish Random Quote Generator built with HTML, CSS, and JavaScript
 ## 🛠️ Tech Stack
 
 - HTML5
-- CSS3 (or Tailwind CSS if used)
+- CSS3 
 - JavaScript
  Optional: External API for quotes 
 
